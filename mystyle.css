@@ -1,0 +1,18 @@
+h1{
+    font-size: 100px;
+    color:hotpink;
+    border: 20px solid tomato;
+    border-style: groove;
+}
+body{
+    background-color: green;
+}
+.blue{
+    color:blue;
+}
+.big{
+    font-size: 300px;
+}
+#blueid{
+    background-color: aqua;
+}
