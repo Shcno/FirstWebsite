@@ -1,8 +1,6 @@
 h1{
-    font-size: 100px;
+    font-size: 20px;
     color:hotpink;
-    border: 20px solid tomato;
-    border-style: groove;
 }
 body{
     background-color: green;
@@ -11,7 +9,7 @@ body{
     color:blue;
 }
 .big{
-    font-size: 300px;
+    font-size: 30px;
 }
 #blueid{
     background-color: aqua;
