@@ -1,5 +1,5 @@
 h1{
     body{
-        background-image: url("monke.jpg");
+        background-image: monke.jpg(".");
     }
 }
